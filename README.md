@@ -21,10 +21,10 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 `cd mubi_watchlist_export`
 
-2. Initialize the Go module
+3. Initialize the Go module
 `go mod init mubi_export.go`
 
-3. Download and install required Go modules
+4. Download and install required Go modules
 `go mod tidy`
 
 ### Usage

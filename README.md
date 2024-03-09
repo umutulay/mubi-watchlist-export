@@ -17,6 +17,10 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 `git clone https://github.com/eksen1907/mubi_watchlist_export.git`
 
+2. Navigate to the project directory
+
+`cd mubi_watchlist_export`
+
 2. Initialize the Go module
 `go mod init mubi_export.go`
 

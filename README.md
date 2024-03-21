@@ -34,4 +34,4 @@ Change the userId
 
 ## Authors
 
-* Umut Tulay - [eksen1907](https://github.com/eksen1907)
+* Umut Tulay - [eksen1907](https://github.com/eksen1907) with ChatGPT

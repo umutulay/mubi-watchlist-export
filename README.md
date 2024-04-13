@@ -15,7 +15,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. Clone the repository
 
-`git clone https://github.com/eksen1907/mubi_watchlist_export.git`
+`git clone https://github.com/umutulay/mubi_watchlist_export.git`
 
 2. Navigate to the project directory
 
@@ -34,4 +34,4 @@ Change the userId
 
 ## Authors
 
-* Umut Tulay - [eksen1907](https://github.com/eksen1907) with ChatGPT
+* Umut Tulay - [umutulay](https://github.com/umutulay) 

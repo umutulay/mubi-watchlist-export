@@ -1,4 +1,4 @@
-# MUBI Watchlist Exporter
+# mubi-watchlist-export
 
 This project is a Go application that interacts with the MUBI API to retrieve a user's watchlist and export it into an Excel file. The application fetches films from the user's MUBI watchlist and extracts details such as the film title and year, then saves this information in a well-structured Excel spreadsheet.
 
